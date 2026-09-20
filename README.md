@@ -6,7 +6,7 @@ A step-by-step learning path for someone with a **BSCS degree** who knows progra
 
 ---
 
-## 📑 Table of Contents
+## 📑 Table of Contentss
 
 1. [The Big Picture](#-the-big-picture)
 2. [Step 1: Fill the Small Gaps](#step-1-fill-the-small-gaps-2-4-weeks)
